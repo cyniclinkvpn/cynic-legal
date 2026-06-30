@@ -1,2 +1,17 @@
-# cynic-legal
-Legal documents for Cynic VPS
+# Cynic VPS Legal Documents
+
+Официальные документы сервиса Cynic VPS.
+
+## Документы
+
+- [Условия использования](./terms.md)
+- [Политика возвратов](./refund-policy.md)
+- [Политика конфиденциальности](./privacy-policy.md)
+- [Согласие на обработку персональных данных](./personal-data-consent.md)
+- [Правила использования](./acceptable-use-policy.md)
+
+## Поддержка
+
+По вопросам использования сервиса, возвратов и обработки данных пользователь может обратиться в поддержку:
+
+@cynic_support
